@@ -1,0 +1,32 @@
+name: knowledge_hub
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.11.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.7.3
+  video_player: ^2.11.1
+  xml: ^7.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/media-files/tainex_logo.jpg
+  - assets/media-files/K1_Management/
+  - assets/media-files/K2_About_the_Venue/
+  - assets/media-files/K3_Public_Art/
+  - assets/media-files/K4_Facilities/
+  - assets/media-files/K5_Dining&Catering/
+

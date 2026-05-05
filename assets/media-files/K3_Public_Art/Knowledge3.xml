@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <Quiz_1>
+      <Answer>A</Answer>
+      <Options>
+         <A>8</A>
+         <B>7</B>
+         <C>9</C>
+         <D>11</D>
+      </Options>
+      <Question>How many public art installations are located across Taipei Nangang Exhibition Center, Hall 1 and Hall 2?</Question>
+   </Quiz_1>
+   <Quiz_2>
+      <Answer>B</Answer>
+      <Options>
+         <A>Light Wall is located in Hall 2.</A>
+         <B>Song of the Four Seasons is located in Hall 2.</B>
+         <C>In Between Thinking is located in Hall 1.</C>
+         <D>Transcendence is located in Hall 2.</D>
+      </Options>
+      <Question>Which of the following descriptions regarding the locations of the public art installations is INCORRECT?</Question>
+   </Quiz_2>
+   <Quiz_3>
+      <Answer>B</Answer>
+      <Options>
+         <A>Tempered glass, steel cables, and fluorescent lights</A>
+         <B>Handmade glass, stainless steel cables, and LEDs</B>
+         <C>Handmade mirrored glass, steel frame, and LEDs</C>
+         <D>Specially treated thick glass and wooden beams</D>
+      </Options>
+      <Question>What are the primary materials used in the artwork "Transcendence"?</Question>
+   </Quiz_3>
+   <Quiz_4>
+      <Answer>C</Answer>
+      <Options>
+         <A>The Realm of Infinity (天人境界)</A>
+         <B>Chronicles of Mountain and Form (山．形．誌)</B>
+         <C>Infinite Nature and Self (物我無限)</C>
+         <D>Transcendence (度境)</D>
+      </Options>
+      <Question>Which public art installation is themed around the concept of "Nine"?</Question>
+   </Quiz_4>
+</root>

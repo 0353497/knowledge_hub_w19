@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <Quiz_1>
+      <Answer>D</Answer>
+      <Options>
+         <A>11</A>
+         <B>9</B>
+         <C>8</C>
+         <D>10</D>
+      </Options>
+      <Question>How many dining options are available in TaiNEX 1?</Question>
+   </Quiz_1>
+   <Quiz_2>
+      <Answer>D</Answer>
+      <Options>
+         <A>13</A>
+         <B>9</B>
+         <C>10</C>
+         <D>8</D>
+      </Options>
+      <Question>How many dining options are available in TaiNEX 2?</Question>
+   </Quiz_2>
+   <Quiz_3>
+      <Answer>B</Answer>
+      <Options>
+         <A>Monday to Friday, during non-exhibition periods</A>
+         <B>Monday to Friday, during exhibition periods</B>
+         <C>Monday to Sunday, during non-exhibition periods</C>
+         <D>Monday to Sunday, during exhibition periods</D>
+      </Options>
+      <Question>What are the service hours for the TaiNEX online meal ordering system?</Question>
+   </Quiz_3>
+   <Quiz_4>
+      <Answer>C</Answer>
+      <Options>
+         <A>TaiNEX 1, 6F</A>
+         <B>TaiNEX 1, 1F</B>
+         <C>TaiNEX 2, 7F</C>
+         <D>TaiNEX 2, 4F</D>
+      </Options>
+      <Question>Where is the Green Wedding and Creative Center located?</Question>
+   </Quiz_4>
+</root>

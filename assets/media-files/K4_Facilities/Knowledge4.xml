@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <Quiz_1>
+      <Answer>A</Answer>
+      <Options>
+         <A>L, M, N</A>
+         <B>A, B, C</B>
+         <C>E, F, G</C>
+         <D>X, Y, Z</D>
+      </Options>
+      <Question>What are the area designations for the exhibition space on the 4th floor of TaiNEX 1?</Question>
+   </Quiz_1>
+   <Quiz_2>
+      <Answer>B</Answer>
+      <Options>
+         <A>2F、3F</A>
+         <B>1F、4F</B>
+         <C>1F、3F</C>
+         <D>2F、4F</D>
+      </Options>
+      <Question>On which floors can emergency medical equipment be found in TaiNEX 1?</Question>
+   </Quiz_2>
+   <Quiz_3>
+      <Answer>B</Answer>
+      <Options>
+         <A>TaiNEX 1, 4th Floor</A>
+         <B>TaiNEX 2, 4th Floor</B>
+         <C>TaiNEX 1, 1th Floor</C>
+         <D>TaiNEX 2, 1th Floor</D>
+      </Options>
+      <Question>Where are the Muslim prayer rooms (separated by gender) located?</Question>
+   </Quiz_3>
+   <Quiz_4>
+      <Answer>C</Answer>
+      <Options>
+         <A>C, D</A>
+         <B>W, S</B>
+         <C>P, Q</C>
+         <D>Y, Z</D>
+      </Options>
+      <Question>What are the area designations for the exhibition space on the 1st floor of TaiNEX 2?</Question>
+   </Quiz_4>
+</root>

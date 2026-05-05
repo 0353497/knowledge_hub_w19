@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <Quiz-1>
+      <Answer>D</Answer>
+      <Options>
+         <A>June 13, 2008</A>
+         <B>May 13, 2008</B>
+         <C>April 13, 2008</C>
+         <D>March 13, 2008</D>
+      </Options>
+      <Question>What was the official opening date of Taipei Nangang Exhibition Center, Hall 1?</Question>
+   </Quiz-1>
+   <Quiz-2>
+      <Answer>B</Answer>
+      <Options>
+         <A>Site Greenery</A>
+         <B>Photosynthetic Energy</B>
+         <C>CO2 Reduction</C>
+         <D>Sewage and Garbage Improvement</D>
+      </Options>
+      <Question>Which of the following is NOT one of the green building indicators achieved by TaiNEX 1?</Question>
+   </Quiz-2>
+   <Quiz-3>
+      <Answer>B</Answer>
+      <Options>
+         <A>Organizers are encouraged to cover all aisle floors with carpeting during exhibitions.</A>
+         <B>Some printed promotional materials in TaiNEX 1 use double-sided printing.</B>
+         <C>Manual faucets are installed in restrooms to reduce water consumption.</C>
+         <D>Escalators and elevators remain fully operational during non-exhibition or non-event periods.</D>
+      </Options>
+      <Question>Which of the following statements regarding "Green Operations" is INCORRECT?</Question>
+   </Quiz-3>
+   <Quiz-4>
+      <Answer>C</Answer>
+      <Options>
+         <A>2F、3F</A>
+         <B>3F、4F</B>
+         <C>1F、4F</C>
+         <D>1F、3F</D>
+      </Options>
+      <Question>On which floors are the exhibition halls of Taipei Nangang Exhibition Center, Hall 2 located?</Question>
+   </Quiz-4>
+</root>

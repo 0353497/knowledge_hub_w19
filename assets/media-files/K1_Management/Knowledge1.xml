@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <Quiz_1>
+      <Answer>A</Answer>
+      <Options>
+         <A>July 1, 1970</A>
+         <B>January 1, 1971</B>
+         <C>January 7, 1972</C>
+         <D>July 7, 1973</D>
+      </Options>
+      <Question>In which year and month did the government combine efforts with private industrial and commercial groups to establish this non-profit foundation, with the mission of assisting the industry in developing Taiwan's foreign trade?</Question>
+   </Quiz_1>
+   <Quiz_2>
+      <Answer>A</Answer>
+      <Options>
+         <A>1300</A>
+         <B>1100</B>
+         <C>1400</C>
+         <D>1000</D>
+      </Options>
+      <Question>How many trade professionals does the organization employ, both locally and overseas?</Question>
+   </Quiz_2>
+   <Quiz_3>
+      <Answer>B</Answer>
+      <Options>
+         <A>Taipei</A>
+         <B>Hualien</B>
+         <C>Kaohsiung</C>
+         <D>Taichung</D>
+      </Options>
+      <Question>In which of the following cities in Taiwan does the organization NOT have a local office?</Question>
+   </Quiz_3>
+   <Quiz_4>
+      <Answer>D</Answer>
+      <Options>
+         <A>58</A>
+         <B>59</B>
+         <C>60</C>
+         <D>61</D>
+      </Options>
+      <Question>How many overseas offices are currently in operation?</Question>
+   </Quiz_4>
+</root>
