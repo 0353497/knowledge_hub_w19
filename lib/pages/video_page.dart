@@ -160,7 +160,6 @@ class VideoButton extends StatelessWidget {
       height: 60,
       child: ElevatedButton(
         onPressed: () {
-          print("tapped");
           onTap.call();
         },
         child: Row(
