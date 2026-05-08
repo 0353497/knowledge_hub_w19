@@ -65,6 +65,7 @@ class _QuizPageState extends State<QuizPage> {
                           final optionText =
                               questions[currentQuestion].options[i];
                           return RadioListTile<String>(
+                            key: ValueKey(letter),
                             title: Text(optionText),
                             value: letter,
                           );
@@ -120,9 +121,7 @@ class _QuizPageState extends State<QuizPage> {
                                   });
                                 }
                               },
-                        child: Text(
-                          currentQuestion == 3 ? "Submit" : "Next Question",
-                        ),
+                        child: Text(currentQuestion == 3 ? "Submit" : "Next"),
                       ),
                     ],
                   ),
