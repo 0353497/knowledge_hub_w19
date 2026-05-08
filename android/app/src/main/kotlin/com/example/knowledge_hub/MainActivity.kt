@@ -1,4 +1,4 @@
-package com.example.knowledge_hub
+package edu.ws2026.twNL
 
 import io.flutter.embedding.android.FlutterActivity
 
