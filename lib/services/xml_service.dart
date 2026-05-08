@@ -12,17 +12,33 @@ class XmlService {
   ];
 
   static Future<List<Question>> loadQuestions(int index) async {
+    if (index < 0 || index >= _xmlFiles.length) return [];
     final xml = await rootBundle.loadString(_xmlFiles[index]);
-    final root = XmlDocument.parse(xml).root;
+    final root = XmlDocument.parse(xml).rootElement;
     final List<Question> questions = [];
-    for (var i = 1; i <= 4; i++) {
-      final XmlElement quiz = root.getElement("Quiz_$i")!;
-      final String question = quiz.getElement("Question")?.value ?? "";
-      final String answer = quiz.getElement("Answer")?.value ?? "";
-      final List<String> options = quiz
-          .findAllElements("Options")
-          .map((element) => element.value ?? "")
-          .toList();
+    final quizzes =
+        root.children
+            .whereType<XmlElement>()
+            .where((e) => e.name.local.startsWith('Quiz_'))
+            .toList()
+          ..sort((a, b) {
+            final ai = int.tryParse(a.name.local.split('_').last) ?? 0;
+            final bi = int.tryParse(b.name.local.split('_').last) ?? 0;
+            return ai.compareTo(bi);
+          });
+
+    for (final quiz in quizzes) {
+      final String question =
+          quiz.getElement('Question')?.innerText.trim() ?? '';
+      final String answer = quiz.getElement('Answer')?.innerText.trim() ?? '';
+      final optionsElem = quiz.getElement('Options');
+      final List<String> options = optionsElem == null
+          ? []
+          : optionsElem.children
+                .whereType<XmlElement>()
+                .map((e) => e.innerText.trim())
+                .toList();
+
       questions.add(
         Question(question: question, answer: answer, options: options),
       );

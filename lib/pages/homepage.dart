@@ -15,14 +15,14 @@ class _HomepageState extends State<Homepage> {
     return Scaffold(
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.center,
-        spacing: 12,
+        spacing: 24,
         children: [
           Image.asset("assets/media-files/tainex_logo.jpg"),
           OwnButton(icon: Icons.person, text: 'Management', index: 0),
           OwnButton(icon: Icons.location_on, text: 'About the Venue', index: 1),
-          OwnButton(icon: Icons.sticky_note_2, text: 'Management', index: 2),
-          OwnButton(icon: Icons.mood, text: 'Management', index: 3),
-          OwnButton(icon: Icons.star, text: 'Management', index: 4),
+          OwnButton(icon: Icons.sticky_note_2, text: 'Public Art', index: 2),
+          OwnButton(icon: Icons.mood, text: 'Facilities', index: 3),
+          OwnButton(icon: Icons.star, text: 'Dining & Catering', index: 4),
           Row(),
         ],
       ),
