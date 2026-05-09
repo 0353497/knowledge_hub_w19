@@ -12,7 +12,7 @@ void main() {
 
     Future<void> nextStep(String description) async {
       print("Step No: $currentStep,$description");
-      await Future.delayed(Duration(seconds: 1));
+      await Future.delayed(Duration(seconds: 10));
       await tester.pumpAndSettle();
       currentStep++;
     }
