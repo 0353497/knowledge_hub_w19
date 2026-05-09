@@ -187,7 +187,7 @@ void main() {
     await tester.pumpAndSettle();
 
     await nextStep("Select the fifth knowledge item from the Home Page.");
-    await tester.tap(find.text("Dining"));
+    await tester.tap(find.text("Dining & Catering"));
     await tester.pumpAndSettle();
 
     await nextStep("Play the fifth educational video on the Content Page.");
