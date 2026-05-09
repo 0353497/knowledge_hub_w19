@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-   <Quiz-1>
+   <Quiz_1>
       <Answer>D</Answer>
       <Options>
          <A>June 13, 2008</A>
@@ -9,8 +9,8 @@
          <D>March 13, 2008</D>
       </Options>
       <Question>What was the official opening date of Taipei Nangang Exhibition Center, Hall 1?</Question>
-   </Quiz-1>
-   <Quiz-2>
+   </Quiz_1>
+   <Quiz_2>
       <Answer>B</Answer>
       <Options>
          <A>Site Greenery</A>
@@ -19,8 +19,8 @@
          <D>Sewage and Garbage Improvement</D>
       </Options>
       <Question>Which of the following is NOT one of the green building indicators achieved by TaiNEX 1?</Question>
-   </Quiz-2>
-   <Quiz-3>
+   </Quiz_2>
+   <Quiz_3>
       <Answer>B</Answer>
       <Options>
          <A>Organizers are encouraged to cover all aisle floors with carpeting during exhibitions.</A>
@@ -29,8 +29,8 @@
          <D>Escalators and elevators remain fully operational during non-exhibition or non-event periods.</D>
       </Options>
       <Question>Which of the following statements regarding "Green Operations" is INCORRECT?</Question>
-   </Quiz-3>
-   <Quiz-4>
+   </Quiz_3>
+   <Quiz_4>
       <Answer>C</Answer>
       <Options>
          <A>2F、3F</A>
@@ -39,5 +39,5 @@
          <D>1F、3F</D>
       </Options>
       <Question>On which floors are the exhibition halls of Taipei Nangang Exhibition Center, Hall 2 located?</Question>
-   </Quiz-4>
+   </Quiz_4>
 </root>
